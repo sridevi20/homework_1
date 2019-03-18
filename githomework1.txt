@@ -1,1 +1,1 @@
-day1:git repository
+day1: my first day was awesome!
